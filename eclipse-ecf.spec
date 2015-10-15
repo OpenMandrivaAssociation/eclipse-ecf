@@ -3,13 +3,13 @@
 %{!?scl:%global pkg_name %{name}}
 
 %global tag R-Release_HEAD-sdk_feature-144_2014-11-16_21-26-19
-%global contextQualifier v20140818-1748
+%global contextQualifier v%(date +%%Y%%m%%d-%%H%%M)
 
 %define __requires_exclude osgi*
 
 Name:           %{?scl_prefix}eclipse-ecf
 Version:        3.9.1
-Release:        1%{?dist}
+Release:        2.1
 Summary:        Eclipse Communication Framework (ECF) Eclipse plug-in
 
 License:        EPL
