@@ -9,7 +9,7 @@
 
 Name:           %{?scl_prefix}eclipse-ecf
 Version:        3.9.1
-Release:        2.1
+Release:        2.2
 Summary:        Eclipse Communication Framework (ECF) Eclipse plug-in
 
 License:        EPL
