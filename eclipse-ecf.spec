@@ -13,7 +13,7 @@ Release:        2.2
 Summary:        Eclipse Communication Framework (ECF) Eclipse plug-in
 
 License:        EPL
-URL:            http://www.eclipse.org/ecf/
+URL:            https://www.eclipse.org/ecf/
 Source0:        http://git.eclipse.org/c/ecf/org.eclipse.ecf.git/snapshot/org.eclipse.ecf-%{tag}.tar.bz2
 
 BuildRequires:  java-devel >= 1.7.0 
